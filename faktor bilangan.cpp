@@ -15,7 +15,7 @@ int main(){
 	if(jumlah==5){
 	   cout << "YES";
 	}
-	else if(jumlah!=5){
+	else{
 	   cout << "NO";
 	}
 }
